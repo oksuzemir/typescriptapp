@@ -1,0 +1,14 @@
+{
+  "name": "namspacests",
+  "version": "1.0.0",
+  "description": "NameSpaces - TS",
+  "main": "./dist/app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Berkay Akgürgen",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
